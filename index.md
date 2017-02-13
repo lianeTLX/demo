@@ -1,13 +1,9 @@
-## Welcome to GitHub Pages
+##我的第一个github page页面
+试了 好久终于知道如何生成一个github page页面了。。。哈哈哈
 
-You can use the [editor on GitHub](https://github.com/lianeTLX/demo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### 重要 的几点记录如下
+ 一 、在创建代码库的时候必须勾选自动生成readerMe的那个选项。
+ 二、在code栏生成gh-page分支
 ```markdown
 Syntax highlighted code block
 
